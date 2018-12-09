@@ -1,0 +1,4 @@
+Daedalus Languge Lexer (Lex / Flex)
+
+Run:
+flex.exe grammar.l & gcc daedalus_scanner.c lex.yy.c & a.exe testscript.d
